@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @srishav9
-- 👀 I’m interested in {...}
-- 🌱 I’m currently learning {...}
-- 💞️ I’m looking to collaborate on {...}
-- 📫 How to reach me rishav9471@gmail.com
+- 👋 Hi, I’m rishav 🌱 💞️  
+- 📫 Rreach me at rishav9471@gmail.com
 
 <!---
 srishav9/srishav9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
