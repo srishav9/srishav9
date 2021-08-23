@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rishav 🌱 💞️  
+- 👋 Hi, I’m rishav 🌱
 - 📫 Rreach me at rishav9471@gmail.com
 
 <!---
